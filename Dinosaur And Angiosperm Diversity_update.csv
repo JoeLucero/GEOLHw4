@@ -1,0 +1,118 @@
+"Data downloaded from the Paleobiology Database, Fossilworks site on March 10, 2017. ",,,,,,,,,,,,,,,,,
+http://fossilworks.org/bridge.pl?a=home,,,,,,,,,,,,,,,,,
+
+1 and 2. Use the following data for the graphs in steps 1 and 2. ,,,,,,,,,,,,,,,,,
+Ornithiscia (Bird hipped dinosaurs) ,,,,,,,,,,,,,,,,,
+
+Bin,Bin name,Base (Ma),Sampled genera,,,,,,,,,,,,,,
+43,Cretaceous 8,70.6,73.00,,,,,,,,,,,,,,
+42,Cretaceous 7,84.9,127.00,,,,,,,,,,,,,,
+41,Cretaceous 6,94.3,34.00,,,,,,,,,,,,,,
+40,Cretaceous 5,99.7,22.00,,,,,,,,,,,,,,
+39,Cretaceous 4,112.6,33.00,,,,,,,,,,,,,,
+38,Cretaceous 3,125.5,25.00,,,,,,,,,,,,,,
+37,Cretaceous 2,136.4,22.00,,,,,,,,,,,,,,
+36,Cretaceous 1,145.5,23.00,,,,,,,,,,,,,,
+35,Jurassic 6,150.8,15.00,,,,,,,,,,,,,,
+34,Jurassic 5,164.7,37.00,,,,,,,,,,,,,,
+33,Jurassic 4,171.6,1.00,,,,,,,,,,,,,,
+32,Jurassic 3,183,2.00,,,,,,,,,,,,,,
+31,Jurassic 2,189.6,2.00,,,,,,,,,,,,,,
+30,Jurassic 1,201.6,19.00,,,,,,,,,,,,,,
+29,Triassic 4,221.5,4.00,,,,,,,,,,,,,,
+28,Triassic 3,235,2.00,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Therapoda (carnivours dinsoaurs like T-Rex) ,,,,,,,,,,,,,,,,,
+
+Bin,Bin name,Base (Ma),Sampled genera,,,,,,,,,,,,,,
+44,Cenozoic 1,66,26.00,,,,,,,,,,,,,,
+43,Cretaceous 8,70.6,122.00,,,,,,,,,,,,,,
+42,Cretaceous 7,84.9,119.00,,,,,,,,,,,,,,
+41,Cretaceous 6,94.3,45.00,,,,,,,,,,,,,,
+40,Cretaceous 5,99.7,37.00,,,,,,,,,,,,,,
+39,Cretaceous 4,112.6,36.00,,,,,,,,,,,,,,
+38,Cretaceous 3,125.5,90.00,,,,,,,,,,,,,,
+37,Cretaceous 2,136.4,55.00,,,,,,,,,,,,,,
+36,Cretaceous 1,145.5,15.00,,,,,,,,,,,,,,
+35,Jurassic 6,150.8,20.00,,,,,,,,,,,,,,
+34,Jurassic 5,164.7,51.00,,,,,,,,,,,,,,
+33,Jurassic 4,171.6,13.00,,,,,,,,,,,,,,
+32,Jurassic 3,183,1.00,,,,,,,,,,,,,,
+31,Jurassic 2,189.6,2.00,,,,,,,,,,,,,,
+30,Jurassic 1,201.6,35.00,,,,,,,,,,,,,,
+29,Triassic 4,221.5,29.00,,,,,,,,,,,,,,
+28,Triassic 3,235,9.00,,,,,,,,,,,,,,
+27,Triassic 2,247.2,5.00,,,,,,,,,,,,,,
+26,Triassic 1,252.3,1.00,,,,,,,,,,,,,,
+
+
+
+Sauropoda ,,,,,,,,,,,,,,,,,
+
+Bin,Bin name,Base (Ma),Sampled genera,,,,,,,,,,,,,,
+43,Cretaceous 8,70.6,28,,,,,,,,,,,,,,
+42,Cretaceous 7,84.9,20,,,,,,,,,,,,,,
+41,Cretaceous 6,94.3,23,,,,,,,,,,,,,,
+40,Cretaceous 5,99.7,11,,,,,,,,,,,,,,
+39,Cretaceous 4,112.6,18,,,,,,,,,,,,,,
+38,Cretaceous 3,125.5,14,,,,,,,,,,,,,,
+37,Cretaceous 2,136.4,13,,,,,,,,,,,,,,
+36,Cretaceous 1,145.5,15,,,,,,,,,,,,,,
+35,Jurassic 6,150.8,28,,,,,,,,,,,,,,
+34,Jurassic 5,164.7,38,,,,,,,,,,,,,,
+33,Jurassic 4,171.6,11,,,,,,,,,,,,,,
+32,Jurassic 3,183,3,,,,,,,,,,,,,,
+31,Jurassic 2,189.6,NA,,,,,,,,,,,,,,
+30,Jurassic 1,201.6,7,,,,,,,,,,,,,,
+29,Triassic 4,221.5,1,,,,,,,,,,,,,,
+
+
+
+
+
+Bin,Bin name,Base (Ma),Sampled genera,,,,,,,,,,,,,,
+43,Cretaceous 8,70.6,17,,,,,,,,,,,,,,
+42,Cretaceous 7,84.9,6,,,,,,,,,,,,,,
+41,Cretaceous 6,94.3,8,,,,,,,,,,,,,,
+40,Cretaceous 5,99.7,8,,,,,,,,,,,,,,
+39,Cretaceous 4,112.6,9,,,,,,,,,,,,,,
+38,Cretaceous 3,125.5,8,,,,,,,,,,,,,,
+37,Cretaceous 2,136.4,5,,,,,,,,,,,,,,
+36,Cretaceous 1,145.5,NA,,,,,,,,,,,,,,
+35,Jurassic 6,150.8,NA,,,,,,,,,,,,,,
+34,Jurassic 5,164.7,1,,,,,,,,,,,,,,
+33,Jurassic 4,171.6,1,,,,,,,,,,,,,,
+32,Jurassic 3,183,NA,,,,,,,,,,,,,,
+31,Jurassic 2,189.6,NA,,,,,,,,,,,,,,
+30,Jurassic 1,201.6,NA,,,,,,,,,,,,,,
+29,Triassic 4,221.5,1,,,,,,,,,,,,,,
+28,Triassic 3,235,NA,,,,,,,,,,,,,,
+27,Triassic 2,247.2,NA,,,,,,,,,,,,,,
+26,Triassic 1,252.3,NA,,,,,,,,,,,,,,
+
+
+3. Use the data arrangement below for Step 3 (CORREL) ,,,,,,,,,,,,,,,,,
+
+Ornithiscia (Bird hipped dinosaurs) ,,,,,Therapoda (carnivours dinsoaurs like T-Rex) ,,,,,Sauropoda ,,,,,Angiospermae (Flowering plants) ,,
+
+Bin,Bin name,Base (Ma),Sampled genera,,Bin name,Base (Ma),Sampled genera,,,Bin name,Base (Ma),Sampled genera,,,,,
+43,Cretaceous 8,70.6,73.00,,Cretaceous 8,70.6,122.00,,,Cretaceous 8,70.6,28,,43,Cretaceous 8,70.6,17
+42,Cretaceous 7,84.9,127.00,,Cretaceous 7,84.9,119.00,,,Cretaceous 7,84.9,20,,42,Cretaceous 7,84.9,6
+41,Cretaceous 6,94.3,34.00,,Cretaceous 6,94.3,45.00,,,Cretaceous 6,94.3,23,,41,Cretaceous 6,94.3,8
+40,Cretaceous 5,99.7,22.00,,Cretaceous 5,99.7,37.00,,,Cretaceous 5,99.7,11,,40,Cretaceous 5,99.7,8
+39,Cretaceous 4,112.6,33.00,,Cretaceous 4,112.6,36.00,,,Cretaceous 4,112.6,18,,39,Cretaceous 4,112.6,9
+38,Cretaceous 3,125.5,25.00,,Cretaceous 3,125.5,90.00,,,Cretaceous 3,125.5,14,,38,Cretaceous 3,125.5,8
+37,Cretaceous 2,136.4,22.00,,Cretaceous 2,136.4,55.00,,,Cretaceous 2,136.4,13,,37,Cretaceous 2,136.4,5
+36,Cretaceous 1,145.5,23.00,,Cretaceous 1,145.5,15.00,,,Cretaceous 1,145.5,15,,36,Cretaceous 1,145.5,.
+35,Jurassic 6,150.8,15.00,,Jurassic 6,150.8,20.00,,,Jurassic 6,150.8,28,,35,Jurassic 6,150.8,.
+34,Jurassic 5,164.7,37.00,,Jurassic 5,164.7,51.00,,,Jurassic 5,164.7,38,,34,Jurassic 5,164.7,1
+33,Jurassic 4,171.6,1.00,,Jurassic 4,171.6,13.00,,,Jurassic 4,171.6,11,,33,Jurassic 4,171.6,1
+32,Jurassic 3,183,2.00,,Jurassic 3,183,1.00,,,Jurassic 3,183,3,,32,Jurassic 3,183,.
+31,Jurassic 2,189.6,2.00,,Jurassic 2,189.6,2.00,,,Jurassic 2,189.6,.,,31,Jurassic 2,189.6,.
+30,Jurassic 1,201.6,19.00,,Jurassic 1,201.6,35.00,,,Jurassic 1,201.6,7,,30,Jurassic 1,201.6,.
+29,Triassic 4,221.5,4.00,,Triassic 4,221.5,29.00,,,Triassic 4,221.5,1,,29,Triassic 4,221.5,1
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
